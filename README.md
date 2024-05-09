@@ -1,1 +1,1 @@
-este es un proyecto de como crear y clonar a github.
+Este es un proyecto de como crear y clonar a github desde mi computadora.
